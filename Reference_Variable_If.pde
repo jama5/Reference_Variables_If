@@ -20,6 +20,6 @@ void draw (){
   if (X>width -100 || X<0)
   {
     bounce=bounce*(-1);
-  }
+  }}
 
 
